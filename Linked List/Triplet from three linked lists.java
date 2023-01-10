@@ -21,7 +21,7 @@ class Main {
     }
 		public void triple(LinkedList l1, LinkedList l2, LinkedList l3, int target) throws Exception {
 			Node curr1 = l1.head;
-			//Here we are assuming that l2 is in Decreasing order and l3 is in Increasing order
+			//Here, l2 is in Decreasing order and l3 is in Increasing order
 			while(curr1!=null){
 				Node curr2 = l2.head;
 				Node curr3 = l3.head;
