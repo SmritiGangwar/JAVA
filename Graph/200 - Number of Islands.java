@@ -1,4 +1,4 @@
-//Using BFS, Ques on GFG
+//Using BFS, Ques also on GFG
 
 import java.util.LinkedList;
 import java.util.Queue;
